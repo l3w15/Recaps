@@ -18,6 +18,7 @@
         * The history of IW; Media Solutions and of course skybet
 * Continued with out POC:
     * Wrote 13 funcitonal unittests achieving **84%** coverage.
+![cat pic] (img/cat.jpg)
     * Completed and tested the transform. 
     * About to start the Load function. 
         
@@ -27,11 +28,11 @@
 * To garner a better understand of IW as a buisness (commerical aspect)
 * To complete the steel thread and touch all technologies for our POC.
 * How to stand out as a consultant rather than just another engineer. :(
+* To stay relevant as we get old :(
 
+![cat pic](img/cat.jpg)
 
-![test cat pic] (./img/cat.jpg)
-
-<img src="mc.png"
+<img src="img/cat.jpg"
      alt="minecraft"
      style="float: left; margin-right: 10px;" />
 
@@ -41,6 +42,10 @@
 
 #### What would you tell yourself when using  it?
 * Get 360 feedback in project review (feedback from superiors, peers, customers) perceptions might not fit with reality.
+* Get over it being commercial, try your best, don't be an a***, 
+* Consultancy is similar to a pyramid scheme. 
+* Be client, IW and self focused (3 lenses).
+* 
 
 _____________________________
 # Title
