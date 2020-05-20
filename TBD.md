@@ -19,7 +19,7 @@
         * How we benefit from being a consultant.
 * Continued with our POC:
     * Wrote 13 functional unittests achieving _**84%**_ coverage.</br>
-    <img src="img/cat.jpg" alt="cat" width=100px /></br>
+    <img src="img/cat.jpg" alt="cat" width=200px /></br>
     * Completed and tested the transform. 
     * About to start the Load function. 
         
